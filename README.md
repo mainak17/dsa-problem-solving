@@ -1,2 +1,2 @@
 # dsa-problem-solving
-Some standard problems to upskill my DSA 
+Some standard problems to upskill my DSA concepts
